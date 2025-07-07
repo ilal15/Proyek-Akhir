@@ -21,7 +21,7 @@ Program untuk mengirim semua data ke layar HMI.
 
 ### PID_Air_Laptop
 
-Program untuk mengirim data ke laptop, tetapi pengaturan nilai setpoint, parameter PID (Kp, Ki, Kd), serta mengaktifkan dan menonaktifkan sistem tetap dari layar HMI.
+Program untuk mengirim data ke laptop, tetapi pengaturan nilai setpoint, parameter PID (Kp, Ki, Kd), serta mengaktifkan atau menonaktifkan sistem tetap dari layar HMI.
 
 ---
 
