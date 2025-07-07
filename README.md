@@ -17,7 +17,7 @@ Tujuan dari proyek akhir ini adalah merancang sebuah prototipe sistem kontrol le
 
 ### PID_Air_HMI
 
-Program untuk mengirim **semua data** ke layar HMI.
+Program untuk mengirim semua data ke layar HMI.
 
 ### PID_Air_Laptop
 
