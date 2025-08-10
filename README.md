@@ -23,6 +23,12 @@ Program untuk mengirim semua data ke layar HMI.
 
 Program untuk mengirim data ke laptop, tetapi pengaturan nilai setpoint, parameter PID (Kp, Ki, Kd), serta mengaktifkan atau menonaktifkan sistem tetap dari layar HMI.
 
+### Proyek_Akhir_Open_Loop
+
+Program untuk mengirim data ke laptop tanpa kontrol PID, Tombol Run dan Stop HMI digunakan untuk menjalankan atau menghentikan sistem. Nilai Setpoint pada program dapat diubah seperti 5.0, 6.0, 7.0, 8.0, 9.0, atau 10.0.
+
+### Microsoft Excel Datastream untuk membuat grafik
+
 ---
 
 **Create by:**  
